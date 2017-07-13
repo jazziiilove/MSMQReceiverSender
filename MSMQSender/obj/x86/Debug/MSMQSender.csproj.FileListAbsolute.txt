@@ -1,0 +1,4 @@
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQSender\bin\Debug\MSMQSender.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQSender\bin\Debug\MSMQSender.pdb
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQSender\obj\x86\Debug\MSMQSender.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQSender\obj\x86\Debug\MSMQSender.pdb

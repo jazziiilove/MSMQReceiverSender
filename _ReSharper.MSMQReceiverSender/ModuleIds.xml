@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4837C4FC-CE6B-4615-8B4A-31331DA9B5DE" ModuleId="MSMQReceiver" />
+  <Module PersistentId="3F973D00-0304-4D5F-A6E3-1F8C36F1A7E0" ModuleId="MSMQSender" />
+</Modules>

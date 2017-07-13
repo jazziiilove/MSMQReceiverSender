@@ -1,0 +1,9 @@
+C:\Users\Baran.Topal\Desktop\MSMQReceiver\MSMQReceiver\MSMQReceiver\bin\Debug\MSMQReceiver.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiver\MSMQReceiver\MSMQReceiver\bin\Debug\MSMQReceiver.pdb
+C:\Users\Baran.Topal\Desktop\MSMQReceiver\MSMQReceiver\MSMQReceiver\obj\x86\Debug\MSMQReceiver.csprojResolveAssemblyReference.cache
+C:\Users\Baran.Topal\Desktop\MSMQReceiver\MSMQReceiver\MSMQReceiver\obj\x86\Debug\MSMQReceiver.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiver\MSMQReceiver\MSMQReceiver\obj\x86\Debug\MSMQReceiver.pdb
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQReceiver\bin\Debug\MSMQReceiver.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQReceiver\bin\Debug\MSMQReceiver.pdb
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQReceiver\obj\x86\Debug\MSMQReceiver.exe
+C:\Users\Baran.Topal\Desktop\MSMQReceiverSender\MSMQReceiverSender\MSMQReceiver\obj\x86\Debug\MSMQReceiver.pdb
